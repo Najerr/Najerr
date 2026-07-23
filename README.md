@@ -15,7 +15,7 @@
 
 * Базы данных: SQL (PostgreSQL, MySQL)
 
-* DevOps: Docker, CI/CD
+* DevOps: Docker, CI/CD, Kafka
 
 * Другое: Git, Linux, REST API
 
